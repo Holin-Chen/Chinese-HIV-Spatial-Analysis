@@ -1,6 +1,6 @@
 # Spatial Pattern of AIDS Incidence in China in 2018, and its Association with Education and Healthcare
 
-*For the full contents of analysis report, please visit [our online poster](https://https://spatialepi563.wordpress.com/2020/11/18/group-16/)*.
+*For the full contents of analysis report, please visit [our online poster](https://spatialepi563.wordpress.com/2020/11/18/group-16/)*.
 
 # Introduction
 
